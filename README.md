@@ -3,7 +3,7 @@
 
 📫 You can get in touch with me by emial: [struggle_hyj@outlook.com](mailto:struggle_hyj@outlook.com)
 
-🚀 Welcome to my Blog:[Nobodyyj's Blog](https://Nobodyyj.github.io/)
+🚀 Welcome to my Blog: [Nobodyyj's Blog](https://Nobodyyj.github.io/)
 
 ![Nobodyyj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nobodyyj&show_icons=true&theme=radical)
 <!--
