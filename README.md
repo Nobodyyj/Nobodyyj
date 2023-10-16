@@ -1,7 +1,7 @@
 ### Hi there 👋
 🌱 I’m currently learning CS & Quant
 
-📫 How to reach me: [struggle_hyj@outlook.com](mailto:struggle_hyj@outlook.com || Email || '#4a7dbe')
+📫 You can get in touch with me by emial: [struggle_hyj@outlook.com](mailto:struggle_hyj@outlook.com)
 
 🚀 Welcome to my Blog:[Nobodyyj's Blog](https://Nobodyyj.github.io/)
 
